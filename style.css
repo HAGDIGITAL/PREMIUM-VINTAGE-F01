@@ -875,6 +875,7 @@ select{
     box-shadow:var(--shadow);
 
     border:5px solid #F3D27B;
+    
 
 }
 
@@ -887,7 +888,7 @@ select{
     border-radius:50%/30%;
 
     margin-bottom:25px;
-
+    
 
 
 }
@@ -1167,6 +1168,10 @@ select{
     box-shadow: var(--shadow);
     transition: .35s;
     border: 5px solid var(--primary);
+
+    box-shadow:var(--shadow);
+        
+        
 }
 
 .event-card:hover{
@@ -1395,7 +1400,7 @@ select{
 }
 
 .gift-card h2{
-    font-size:1.8rem;
+    font-size:1.7rem;
     font-weight:700;
     color:#0A6A83;
     text-align:center;
@@ -1611,6 +1616,7 @@ select{
     margin-bottom:30px;
 
 }
+
 
 
 
@@ -2274,7 +2280,7 @@ body::before{
     right:430px;
     bottom:0;
 
-    background:url("img/FOTO DESKTOP.png") center/cover no-repeat;
+    background:url("img/FOTO DESKTOP.jpeg") center/cover no-repeat;
     z-index:-1;
 }
 
